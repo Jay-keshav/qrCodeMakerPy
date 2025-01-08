@@ -17,11 +17,11 @@ Ensure your PC has the `qrcode` and `Pillow` libraries installed. Then, you can 
 Here is an example interaction with the script:
 
 ```text
-Enter the url u want to convert in qr code: https://example.com
-Enter a name for that qr code image: example_qr
+Enter the url u want to convert in qr code: https://www.linkedin.com/in/jaykeshav/
+Enter a name for that qr code image: letsConnet
 ```
 
-The script will generate a QR code for `https://example.com`, save it as `example_qr.png`, and display the QR code image.
+The script will generate a QR code for `https://www.linkedin.com/in/jaykeshav/`, save it as `letsConnet.png`, and display the QR code image.
 
 ## Code Explanation
 - **URL Input**: The script takes a URL as input from the user.
